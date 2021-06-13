@@ -1,0 +1,15 @@
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/BussinessLogic/bin/Debug/net5.0/BussinessLogic.deps.json
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/BussinessLogic/bin/Debug/net5.0/BussinessLogic.dll
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/BussinessLogic/bin/Debug/net5.0/ref/BussinessLogic.dll
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/BussinessLogic/bin/Debug/net5.0/BussinessLogic.pdb
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/BussinessLogic/bin/Debug/net5.0/Core.dll
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/BussinessLogic/bin/Debug/net5.0/Core.pdb
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/BussinessLogic/obj/Debug/net5.0/BussinessLogic.csproj.AssemblyReference.cache
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/BussinessLogic/obj/Debug/net5.0/BussinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/BussinessLogic/obj/Debug/net5.0/BussinessLogic.AssemblyInfoInputs.cache
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/BussinessLogic/obj/Debug/net5.0/BussinessLogic.AssemblyInfo.cs
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/BussinessLogic/obj/Debug/net5.0/BussinessLogic.csproj.CoreCompileInputs.cache
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/BussinessLogic/obj/Debug/net5.0/BussinessLogic.csproj.CopyComplete
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/BussinessLogic/obj/Debug/net5.0/BussinessLogic.dll
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/BussinessLogic/obj/Debug/net5.0/ref/BussinessLogic.dll
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/BussinessLogic/obj/Debug/net5.0/BussinessLogic.pdb

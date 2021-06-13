@@ -1,0 +1,12 @@
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/Core/bin/Debug/net5.0/Core.deps.json
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/Core/bin/Debug/net5.0/Core.dll
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/Core/bin/Debug/net5.0/ref/Core.dll
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/Core/bin/Debug/net5.0/Core.pdb
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/Core/obj/Debug/net5.0/Core.csproj.AssemblyReference.cache
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/Core/obj/Debug/net5.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/Core/obj/Debug/net5.0/Core.AssemblyInfoInputs.cache
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/Core/obj/Debug/net5.0/Core.AssemblyInfo.cs
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/Core/obj/Debug/net5.0/Core.csproj.CoreCompileInputs.cache
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/Core/obj/Debug/net5.0/Core.dll
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/Core/obj/Debug/net5.0/ref/Core.dll
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/Core/obj/Debug/net5.0/Core.pdb
