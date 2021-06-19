@@ -13,3 +13,6 @@
 /home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/BussinessLogic/obj/Debug/net5.0/BussinessLogic.dll
 /home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/BussinessLogic/obj/Debug/net5.0/ref/BussinessLogic.dll
 /home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/BussinessLogic/obj/Debug/net5.0/BussinessLogic.pdb
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/BussinessLogic/bin/Debug/net5.0/BussinessLogic.runtimeconfig.json
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/BussinessLogic/bin/Debug/net5.0/BussinessLogic.runtimeconfig.dev.json
+/home/ronaldo/Desktop/Projetos/ccharp/ecomerce/backend/NetMarket/BussinessLogic/obj/Debug/net5.0/BussinessLogic.genruntimeconfig.cache

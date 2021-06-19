@@ -7,9 +7,8 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Core.Entities
 {
-  public class Produto
+  public class Produto : ClasseBase
   {
-    public int Id { get; set; }
 
     public string Nome { get; set; }
 
@@ -17,9 +16,14 @@ namespace Core.Entities
 
     public int Estoque { get; set; }
 
-    public int Marca { get; set; }
+    public int MarcaId { get; set; }
 
-    [Column(TypeName = "decimal(18,4")]
+    public Marca Marca { get; set; }
+
+    public int CategoriaId { get; set; }
+
+    public Categoria Categoria { get; set; }
+
     public decimal Preco { get; set; }
 
     public string Imagem { get; set; }

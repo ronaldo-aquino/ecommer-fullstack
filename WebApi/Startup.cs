@@ -1,5 +1,6 @@
 using Core.Interfaces;
 using BussinessLogic.Logic;
+using BussinessLogic.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace WebApi
 {
@@ -28,7 +30,9 @@ namespace WebApi
     // This method gets called by the runtime. Use this method to add services to the container.
     public void ConfigureServices(IServiceCollection services)
     {
-
+      services.AddDbContext<MarketDbContext>(opt => {
+        opt.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
+      });
       services.AddTransient<IProdutoRepository, ProdutoRepository>();
       services.AddControllers();
       services.AddSwaggerGen(c =>
